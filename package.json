@@ -68,7 +68,7 @@
     "dependencies": {
         "@0x/contract-wrappers": "^13.13.0",
         "@0x/utils": "^6.2.0",
-        "@alch/alchemy-web3": "1.1.8",
+        "@alch/alchemy-web3": "1.4.7",
         "ccxt.pro": "git+https://github.com/kroitor/ccxt.pro.git",
         "chrono-node": "^2.3.1",
         "crypto-js": "^4.0.0",
